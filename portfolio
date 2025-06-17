@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Himansh Sarao - Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
+    header { background: #333; color: #fff; padding: 20px; text-align: center; }
+    section { padding: 40px; max-width: 900px; margin: auto; }
+    h1, h2 { color: #444; }
+    .project { margin-bottom: 30px; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    a { color: #007acc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 20px; font-size: 0.9em; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Himansh Sarao</h1>
+    <p>Mechanical Engineer | Product Designer | CAD Specialist</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Final-year B.Tech Mechanical Engineering student with experience in orthopedic product design and skills in SolidWorks, AutoCAD, and manufacturing processes like sheet metal and plastics.</p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>SolidWorks, AutoCAD</li>
+      <li>Sheet Metal Design, Plastic Component Design</li>
+      <li>Manufacturing Technology</li>
+      <li>Orthopedic R&D Experience</li>
+    </ul>
+
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Design of Custom Orthopedic Plate</h3>
+      <p>Used SolidWorks to develop a patient-specific titanium bone plate for a medical implant company. Involved in modeling, FEA, and prototyping.</p>
+    </div>
+
+    <div class="project">
+      <h3>Plastic Enclosure Design</h3>
+      <p>Designed a snap-fit plastic casing for an electronic device considering draft angles, ribs, and moldability constraints.</p>
+    </div>
+
+    <h2>Contact</h2>
+    <p>Email: himansh@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+    <p>Download Resume: <a href="resume.pdf" target="_blank">Click Here</a></p>
+  </section>
+
+  <footer>
+    © 2025 Himansh Sarao
+  </footer>
+</body>
+</html>
